@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+product:
+  message: "Welcome to E-commerce product related QA APIs "
+  contactDetails:
+    name: "Kazim Saricicek - QA Lead"
+    email: "sari@ecommerce.com"
+  onCallSupport:
+    - (690) 165-3265
+    - (643) 234-8779

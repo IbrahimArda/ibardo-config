@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+product:
+  message: "Welcome to E-commerce product related prod APIs "
+  contactDetails:
+    name: " Yusuf Saricicek - Product Owner"
+    email: "sari1@eazybank.com"
+  onCallSupport:
+    - (153) 362-7829
+    - (336) 403-0724
