@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+payment:
+  message: "Welcome to E-commerce user related QA APIs "
+  contactDetails:
+    name: "Rauf Dogan - QA Lead"
+    email: "dogan@ecommerce.com"
+  onCallSupport:
+    - (260) 375-5370
+    - (481) 236-8287

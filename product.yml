@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+product:
+  message: "Welcome to E-commerce product related local APIs "
+  contactDetails:
+    name: "Mustafa Dogan - Developer"
+    email: "dogan2@ecommerce.com"
+  onCallSupport:
+    - (585) 575-1634
+    - (595) 524-1145

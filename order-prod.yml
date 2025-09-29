@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+order:
+  message: "Welcome to E-commerce user related prod APIs "
+  contactDetails:
+    name: "Ibrahim Dogan - Product Owner"
+    email: "dogan@commerce.com"
+  onCallSupport:
+    - (242) 432-2356
+    - (459) 564-8721
